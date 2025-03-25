@@ -24,8 +24,6 @@ This repository contains a simple [Streamlit](https://streamlit.io/) application
 ## Installation
 
 1. **Clone the repository** or download the `app.py` file.
-2. **Create a virtual environment** (recommended):
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Linux or macOS
-   .\venv\Scripts\activate   # On Windows
+2. **Run setup.bat**:
+3. **streamlit run app.py**
+   
